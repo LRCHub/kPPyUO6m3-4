@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Yikes",
+  "base_artist": "Kanye West",
+  "createdAt": "2026-03-18T20:49:15.355336Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yikes feat. DOOM",
+      "artist": "Scienz of Life",
+      "has_synced": false,
+      "path": "select/01_Yikes_feat._DOOM_Scienz_of_Life.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yikes (Feat. Doom)",
+      "artist": "Scienz of Life",
+      "has_synced": false,
+      "path": "select/02_Yikes_(Feat._Doom)_Scienz_of_Life.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yikes",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/03_Yikes_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yikes",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/04_Yikes_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "YIKES (daddy wants wings)",
+      "artist": "Mom Jeans.",
+      "has_synced": false,
+      "path": "select/05_YIKES_(daddy_wants_wings)_Mom_Jeans..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yikes",
+      "artist": "Witt Lowry",
+      "has_synced": false,
+      "path": "select/06_Yikes_Witt_Lowry.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yikes (feat. PARTYNEXTDOOR)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/07_Yikes_(feat._PARTYNEXTDOOR)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yikes",
+      "artist": "KOI feat. grouptherapy. & TJW",
+      "has_synced": false,
+      "path": "select/08_Yikes_KOI_feat._grouptherapy._&_TJW.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yikes (feat. TJOnline)",
+      "artist": "SWIM & grouptherapy.",
+      "has_synced": false,
+      "path": "select/09_Yikes_(feat._TJOnline)_SWIM_&_grouptherapy..txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yikes",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/10_Yikes_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yikes!",
+      "artist": "Negative XP",
+      "has_synced": false,
+      "path": "select/11_Yikes!_Negative_XP.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yikes!",
+      "artist": "Billy Marchiafava",
+      "has_synced": true,
+      "path": "select/12_Yikes!_Billy_Marchiafava.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yikes",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/13_Yikes_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yikes",
+      "artist": "Ali Tomineek",
+      "has_synced": true,
+      "path": "select/14_Yikes_Ali_Tomineek.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dick Van Yikes",
+      "artist": "CLIFFDIVER",
+      "has_synced": false,
+      "path": "select/15_Dick_Van_Yikes_CLIFFDIVER.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Yikes",
+      "artist": "Guilty Simpson",
+      "has_synced": false,
+      "path": "select/16_Yikes_Guilty_Simpson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yikes",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/pl_01_Yikes_Kanye_West.txt"
+    }
+  ]
+}
